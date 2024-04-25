@@ -35,6 +35,10 @@ Evaluation set:
 <img src="https://github.com/dbeniteze/TFG_surface_temp_model/blob/main/figures/esquema_decoder.png" width="500">
 </p>
 
+### Results:
+- Compression ratio : 0.27
+- Coefficient of determination (R squared) between original and reconstruction:  0.9999806058333789
+
 ### References:
 
 <a href="https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html"> NCEP-NCAR Reanalysis 1 </a>
