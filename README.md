@@ -10,6 +10,18 @@ The NCEP/NCAR Reanalysis 1 project is using a state-of-the-art analysis/forecast
 <img src="https://github.com/dbeniteze/TFG_surface_temp_model/blob/main/figures/mapa_surf.png" width="275">
 </p>
 
+### Dataset
+
+Spatial Coverage : 2.5 degree x 2.5 degree global grids (144x73). 0.0E to 357.5E, 90.0N to 90.0S
+
+Training set : 
+ - Daily surface temperature (0.995sigma) data from 1948 to 2020.
+ 
+Test set:
+ - 20% of training set
+
+Evaluation set:
+ - Daily surface temperatures from 2021
 
 ### Encoder Architecture
 
