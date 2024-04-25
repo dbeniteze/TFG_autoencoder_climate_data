@@ -3,18 +3,22 @@ Convolutional Autoencoder for climate data compression
 
 The NCEP/NCAR Reanalysis 1 project is using a state-of-the-art analysis/forecast system to perform data assimilation using past data from 1948 to the present
 
-<img src="https://github.com/dbeniteze/TFG_surface_temp_model/blob/main/figures/mapa_surf.png" width="400">
-
+<p align="center">
+<img src="https://github.com/dbeniteze/TFG_surface_temp_model/blob/main/figures/mapa_surf.png" width="275">
+</p>
 
 
 ### Encoder Architecture
 
+<p align="center">
 <img src="https://github.com/dbeniteze/TFG_surface_temp_model/blob/main/figures/esquema_encoder.png" width="500">
+</p>
 
 ### Encoder Architecture
 
+<p align="center">
 <img src="https://github.com/dbeniteze/TFG_surface_temp_model/blob/main/figures/esquema_decoder.png" width="500">
-
+</p>
 
 ### References:
 
