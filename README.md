@@ -1,6 +1,9 @@
 # TFG_surface_temp_model
 Convolutional Autoencoder for climate data compression
 
+The objective of this work was to analyze the use of Deep Learning models (CNN autoencoders) on climate data as an alternative lossy compression technique, 
+ using quality metrics (Baker-2014) to ensure an appropriate reconstruction of the original data.
+
 The NCEP/NCAR Reanalysis 1 project is using a state-of-the-art analysis/forecast system to perform data assimilation using past data from 1948 to the present
 
 <p align="center">
