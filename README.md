@@ -44,7 +44,7 @@ Evaluation set:
 <a href="https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html"> NCEP-NCAR Reanalysis 1 </a>
 
 
-}Baker et al. - 2014 - A Methodology for Evaluating the Impact of Data Compression on Climate Simulation Data-annotated
+Baker et al. - 2014 - A Methodology for Evaluating the Impact of Data Compression on Climate Simulation Data-annotated
 
 Baker et al. - 2016 - Evaluating lossy data compression on climate simulation data within a large ensemble-annotated
 
