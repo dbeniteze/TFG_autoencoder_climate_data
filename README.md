@@ -1,5 +1,5 @@
 # TFG_surface_temp_model
-Convolutional Autoencoder for climate data compression
+Convolutional Autoencoder for climate data compression.
 
 The objective of this work was to analyze the use of Deep Learning models (CNN autoencoders) on climate data as an alternative lossy compression technique, 
  using quality metrics (Baker-2014) to ensure an appropriate reconstruction of the original data.
